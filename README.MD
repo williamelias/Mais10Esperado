@@ -68,7 +68,9 @@ Usaremos uma box de um sistema operacional unix fornecida pela vagrant, de arqui
 
 ## Acesso às máquinas virtuais
 
+realizar login no servidor
 
+    $ vagrant ssh db | vagrant ssh web 
 
 ## Referências
 
