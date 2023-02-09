@@ -63,7 +63,7 @@ Usaremos uma box de um sistema operacional unix fornecida pela vagrant, de arqui
             web: VirtualBox Version: 6.1
         ==> web: Configuring and enabling network interfaces...
         ==> web: Mounting shared folders...
-            web: /vagrant => /home/william/Documents/Desenvolvimento de software/projects/pessoais/DevOps
+            web: /vagrant => /home/$USER/<project_name>
 
 
 ## Acesso às máquinas virtuais
